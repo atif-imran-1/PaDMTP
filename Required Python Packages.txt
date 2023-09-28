@@ -1,0 +1,17 @@
+pip install python-constraint
+
+pip install pandas
+
+pip install plotly
+
+pip install prettytable
+
+pip install MutPy
+
+pip install pytest
+
+pip install numpy
+
+pip install scipy
+
+pip install tabulate
